@@ -2,6 +2,14 @@
 
 Projektu honek Software Garapenaren inguruan erabiltzen ditugun hitz ezberdinen hiztegi moduko bat izatea du helburu. Bertan, gaztelerako hitz teknikoak eta beren euskerazko itzulpenak agertuko dira. 
 
+## Edukia
+
+- [Hiztegia](#hiztegia)
+- [Funtzionamendua](#funtzionamendua)
+- [Jatorria edo zergatia](#jatorria-edo-zergatia)
+- [Helburua](#helburua)
+- [Nola egin ekarpenak](#nola-egin-ekarpenak)
+
 ## Hiztegia
 
 * [A - Z](hiztegia/A-Z.md)
