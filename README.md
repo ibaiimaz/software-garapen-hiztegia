@@ -1,4 +1,4 @@
-# SOFTWARE GARAPENAREN INGURUKO HITZEN HIZTEGIA
+# SOFTWARE GARAPENAREN HIZTEGI TEKNIKOA
 
 Projektu honek Software Garapenaren inguruan erabiltzen ditugun hitz ezberdinen hiztegi moduko bat izatea du helburu. Bertan, gaztelerako hitz teknikoak eta beren euskerazko itzulpenak agertuko dira. 
 
