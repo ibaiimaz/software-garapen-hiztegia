@@ -1,6 +1,7 @@
 # A - Z
 
 * **Acceder dato**: Datua atzitu
+* **Acoplamiento**: Akoplamendu
 * **Adaptarse al cambio**: Aldaketetara egokitu
 * **Calidad de código**: Kode-kalitatea
 * [+] **Clase padre (parent class)**:
@@ -12,7 +13,7 @@
 * **Dedicarse**: Honetan lan egin, honetan jardun
 * **Derivar**: Eratorri
 * **Derivación**: Eratorpen
-* **Desacoplar**: Banandu
+* [?] **Desacoplar**: Banandu *(hiztegiak honela itzultzen du, baina Acoplamiento -> Akoplamendu bada, ezingo litzateke Desakoplatu edo antzeko zeozer erabili?)* 
 * **Deuda técnica**: Zor teknikoa
 * **Duplicidad de código**: Kode-bikoiztasuna
 * **Ejecutar**: Egikaritu, exekutatu
