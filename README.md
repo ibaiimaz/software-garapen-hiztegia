@@ -1,8 +1,18 @@
 # SOFTWARE GARAPENAREN HIZTEGI TEKNIKOA
 
-Projektu honek Software Garapenaren inguruan erabiltzen ditugun hitz ezberdinen hiztegi moduko bat izatea du helburu. Bertan, gaztelerako hitz teknikoak eta beren euskerazko itzulpenak agertuko dira. 
+Projektu honek Software Garapenaren inguruan erabiltzen ditugun hitz ezberdinen hiztegi moduko bat izatea du helburu. Bertan, gaztelerako hitz teknikoak eta beren euskerazko itzulpenak agertuko dira.
+
+***
 
 [Hiztegia](#hiztegia) • [Funtzionamendua](#funtzionamendua) • [Jatorria edo zergatia](#jatorria-edo-zergatia) • [Helburua](#helburua) • [Nola egin ekarpenak](#nola-egin-ekarpenak)
+
+
+***
+**OHARRA**
+
+Proiektua hau [Github](https://github.com/ibaiimaz/software-garapen-hiztegia) eta [Gitlab](https://gitlab.com/ibaiimaz/software-garapen-hiztegia) zerbitzuetan aurkitu dezakegu. Nahiago duzuna aukeratu zure ekarpenak egiteko.
+
+***
 
 ## Hiztegia
 
@@ -43,8 +53,13 @@ Bestalde, gustatuko litzaidake, liburuan erabiltzen diren hitzetatik haratago, S
 
 ## Nola egin ekarpenak
 
-1. Proiektua Fork-eatu (<https://github.com/ibaiimaz/software-garapen-hiztegia>)
-2. Zure *feature* adarra sortu (`git checkout -b feature/fooBar`)
-3. Aldaketak Commit-eatu (`git commit -am 'Add some fooBar'`)
-4. Adarra Push-eatu (`git push origin feature/fooBar`)
-5. Pull Request-a sortu 
+1. Proiektua Fork-eatu  
+   `<https://github.com/ibaiimaz/software-garapen-hiztegia>` edo  
+   `<https://gitlab.com/ibaiimaz/software-garapen-hiztegia>`
+2. Zure *feature* adarra sortu  
+   `git checkout -b feature/fooBar`
+3. Aldaketak Commit-eatu  
+   `git commit -am 'Add some fooBar'`
+4. Adarra Push-eatu  
+   `git push origin feature/fooBar`
+5. Pull/Merge Request-a sortu 
