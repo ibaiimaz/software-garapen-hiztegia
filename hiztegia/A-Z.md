@@ -13,7 +13,7 @@
 * **Dedicarse**: Honetan lan egin, honetan jardun
 * **Derivar**: Eratorri
 * **Derivación**: Eratorpen
-* [?] **Desacoplar**: Banandu *(hiztegiak honela itzultzen du, baina Acoplamiento -> Akoplamendu bada, ezingo litzateke Desakoplatu edo antzeko zeozer erabili?)* 
+* [?] **Desacoplar**: Desakoplatu *(hiztegiak "banandu" itzultzen du, baina Acoplamiento -> Akoplamendu bada,  Desakoplatu bezela itzultzea erabaki dut)* 
 * **Deuda técnica**: Zor teknikoa
 * **Duplicidad de código**: Kode-bikoiztasuna
 * **Ejecutar**: Egikaritu, exekutatu
@@ -25,6 +25,8 @@
 * **Herencia**: Herentzia
 * **Herencia múltiple**: Herentzia anizkizuna
 * **Implementar**: Inplementatu
+* **Instancia**: Instantzia
+* **Inyección de dependencias**: Dependentzien injekzioa
 * **Lanzar excepción**: Salbuespena altxa
 * **Legibilidad**: Irakurterreza izatea (irakurterreztasuna)
 * **Lenguaje fuertemente tipado**: Datu-moten esleipen ez dinamikoa duen lengoaia
@@ -51,4 +53,9 @@
 * **Solucionar**: Ebatzi
 * **Subclase**: Azpiklase
 * **Superclase**: Superklase
+* [?] **Tipado**: Datu-mota
+* [?] **Tipado dinámico**: Datu-moten esleipen dinamikoa
+* [?] **Tipado estático**: Datu-moten esleipen estatikoa
+* [?] **Tipado fuerte / fuertemente tipado**: Datu-moten esleipen sendoa / tipatze sendoa
+  * **OHARRA:** Datu-moten esleipen dinamikoa kontzeptua UEUko euskerazko liburu batetik atera nuen eta onatzat eman nuen hasiera batean, baina "Tipado fuerte" bilatzerakoan Elhuyarren intzultzaileak "Tipatze sendoa" iradoki dit, eta nolabait erderakada eman badezake ere, nik aurkitzea espero nuenaren antza gehiago dauka.
 * **Variable**: Aldagai
