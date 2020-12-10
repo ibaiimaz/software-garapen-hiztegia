@@ -45,6 +45,7 @@
 * **Pruebas Unitarias**: Proba Unitarioak
 * **Problema**: Problema
 * **Programación Orientada a Objetos**: Objektuetara Bideratutako Programazioa
+* **Refactorizar**: Birfaktorizatu
 * **Requisito**: Eskakizun
 * **Sentencias Condicionales**: Baldintzapeneko egiturak
 * **Sobrecargar**: Gainkargatu
