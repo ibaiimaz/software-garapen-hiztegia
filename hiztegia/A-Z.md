@@ -3,6 +3,7 @@
 * **Acceder dato**: Datua atzitu
 * **Acoplamiento**: Akoplamendu
 * **Adaptarse al cambio**: Aldaketetara egokitu
+* **Buenas prácticas**: Praktika onak
 * **Calidad de código**: Kode-kalitatea
 * [+] **Clase padre (parent class)**:
 * **Código fuente**: Iturburu-kodea
