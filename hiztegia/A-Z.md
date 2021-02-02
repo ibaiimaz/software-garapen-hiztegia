@@ -55,6 +55,7 @@
 * **Solucionar**: Ebatzi
 * **Subclase**: Azpiklase
 * **Superclase**: Superklase
+* **TDD (Test Driven Development)**: Testek Gidaturiko Garapena
 * [?] **Tipado**: Datu-mota
 * [?] **Tipado dinámico**: Datu-moten esleipen dinamikoa
 * [?] **Tipado estático**: Datu-moten esleipen estatikoa
